@@ -23,8 +23,9 @@
 After opening the index.html file and completing the tasks, be ready to discuss the following:
 
 1. What happened when you added text to the code? Where did it show up?
-2. What was different about the text between the `<h1>`’s and the `<p>`’s?
-
+   It showed up on the webscreen to the left and changed what was written on it
+3. What was different about the text between the `<h1>`’s and the `<p>`’s?
+when the word was inbetween the h1 the words became bigger and bolder and when it was between p it was smaller
 ## HTML Tags Introduction
 
 HTML is a computer language that is used to create the structure for web pages on the internet. Like humans, computers understand many languages, and today, we'll dive into HTML (HyperText Markup Language), which is used on virtually every website you visit!
